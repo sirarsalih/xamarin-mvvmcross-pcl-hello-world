@@ -1,0 +1,12 @@
+/BuildProcessTemplates
+/AndroidApplication1/bin
+/AndroidApplication1/obj
+/App1/bin
+/App1/obj
+/PhoneApp1/Bin
+/PhoneApp1/obj
+/PhoneApp1/*.user
+/PortableClassLibrary1/bin
+/PortableClassLibrary1/obj
+*.suo
+
